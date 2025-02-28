@@ -1,0 +1,76 @@
+body {
+     font-family: sans-serif;
+    background-color: #b4c70b;
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+}
+
+.cs {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.ccc{}
+
+button {
+    background-color: #bbbd0c;
+}
+
+.button2 {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+}
+.start {
+    display: flex;
+    justify-content: start;
+    width: 800px;
+}
+
+.csgo {
+    display: flex;
+    justify-content: start;
+    width: 2900px;
+    height: 200px;
+    
+}
+
+p {
+ color: blue
+}
+
+header {
+    background-color: black;
+}
+
+h1 {
+    color: green
+}
+
+.imgcsgo {
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-left: 35px;
+}
+
+
+
